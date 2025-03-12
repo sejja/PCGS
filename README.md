@@ -1,6 +1,7 @@
 # [ARXIV'25] PCGS
 Official Pytorch implementation of **PCGS: Progressive Compression of 3D Gaussian Splatting**.
-## PCGS provides a progressive compression solution for on-demand applications such as dynamic bandwidth and diversion storage conditions.
+## PCGS provides a progressive compression solution for on-demand applications.
+### It enables reuse of existing bitstreams for enhenced fidelity when dynamic bandwidth or diversion storage occurs.
 
 [Yihang Chen*](https://yihangchen-ee.github.io), 
 [Mengyao Li*](https://scholar.google.com/citations?user=fAIEYrEAAAAJ&hl=zh-CN&oi=ao), 
@@ -9,7 +10,7 @@ Official Pytorch implementation of **PCGS: Progressive Compression of 3D Gaussia
 [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/),
 [Jianfei Cai](http://jianfei-cai.github.io)
 
-[[`Arxiv`](https://arxiv.org/pdf/xxxx.xxxxx)] [[`Project`](https://yihangchen-ee.github.io/project_pcgs/)] [[`Github`](https://github.com/YihangChen-ee/PCGS)]
+[[`Arxiv`](https://arxiv.org/pdf/2503.08511)] [[`Project`](https://yihangchen-ee.github.io/project_pcgs/)] [[`Github`](https://github.com/YihangChen-ee/PCGS)]
 
 ## Links
 You are welcomed to check a series of works from our group on 3D radiance field representation compression as listed below:
@@ -147,7 +148,7 @@ If you find our work helpful, please consider citing:
 @article{pcgs2025,
   title={PCGS: Progressive Compression of 3D Gaussian Splatting},
   author={Chen, Yihang and Li, Mengyao and Wu, Qianyi and Lin, Weiyao and Harandi, Mehrtash and Cai, Jianfei},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2503.08511},
   year={2025}
 }
 ```
